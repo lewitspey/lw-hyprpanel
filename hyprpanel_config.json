@@ -64,7 +64,7 @@
   "menus.media.hideAuthor": false,
   "theme.bar.buttons.enableBorders": false,
   "theme.bar.enableShadow": false,
-  "bar.launcher.autoDetectIcon": true,
+  "bar.launcher.autoDetectIcon": false,
   "theme.bar.buttons.workspaces.enableBorder": false,
   "bar.volume.label": true,
   "bar.network.showWifiInfo": true,
@@ -133,5 +133,13 @@
   "theme.bar.buttons.monochrome": false,
   "theme.bar.buttons.battery.spacing": "0.3em",
   "bar.battery.hideLabelWhenFull": false,
-  "theme.bar.buttons.notifications.spacing": "0em"
+  "theme.bar.buttons.notifications.spacing": "0em",
+  "menus.dashboard.directories.left.directory1.label": "󰉍  Downloads",
+  "menus.dashboard.directories.right.directory3.label": "󱂵  Home",
+  "menus.dashboard.directories.left.directory2.label": "󰉏  Videos",
+  "menus.dashboard.directories.left.directory3.label": "󰚝  Projects",
+  "menus.dashboard.directories.right.directory1.label": "󱧶  Documents",
+  "menus.dashboard.directories.right.directory2.label": "󰉏  Pictures",
+  "theme.bar.buttons.dashboard.enableBorder": false,
+  "theme.bar.buttons.windowtitle.enableBorder": false
 }
